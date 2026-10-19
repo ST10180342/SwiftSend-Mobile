@@ -45,8 +45,8 @@ This mobile app is part of the SwiftSend Courier Management System, developed as
 1. Clone the repository:
    ```bash
    git clone https://github.com/refilwe10/swiftsend-mobile.git
-<<<<<<< HEAD
+
    cd swiftsend-mobile
-=======
+
    cd swiftsend-mobile
 >>>>>>> 4ce6696bf7323773d06e33463e95fbdcb78d51d1
