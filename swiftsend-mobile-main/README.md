@@ -33,6 +33,9 @@ This mobile app is part of the SwiftSend Courier Management System, developed as
 | Backend | Node.js + Express |
 | Database | MySQL |
 
+## YOUTUBE VIDEO LINK
+- https://youtu.be/hYFpER6QJBs
+
 ##  Getting Started
 
 ### Prerequisites
